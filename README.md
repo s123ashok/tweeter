@@ -1,4 +1,4 @@
-# Project 1 - *InstaView*
+# Project 1 - *Tweeter*
 
 **Tweeter** is a simple Twitter client app for android 
 
@@ -10,15 +10,15 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-* [X] User can **scroll through current popular photos** from Instagram
-* [X] For each photo displayed, user can see the following details:
-  * [X] Graphic, Caption, Username
+* [X] User can sign in to Twitter using OAuth login
+* [X] User can view the tweets from their home timeline
+* [X] User can compose a new tweet
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/s123ashok/InstaView/blob/master/.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/s123ashok/tweeter/blob/master/TwitterClient.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
