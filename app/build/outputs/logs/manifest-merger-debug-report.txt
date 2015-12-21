@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:2:1-61:12
+ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:2:1-67:12
 	xmlns:android
 		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:2:11-69
 	package
@@ -22,6 +22,8 @@ MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/asmurthy/AndroidStu
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:2:5-72
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:9:9-38
@@ -48,13 +50,15 @@ ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidMan
 	android:name
 		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:15:30-85
 application
-ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:17:5-59:19
+ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:17:5-65:19
 MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:4:5-19
 MERGED from [com.android.support:support-v4:23.1.0] /Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:21:9-41
@@ -125,10 +129,18 @@ ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidMan
 	android:name
 		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:51:13-45
 activity#com.codepath.apps.tweeter.ComposeActivity
-ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:55:9-58:20
+ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:55:9-59:20
 	android:label
-		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:56:13-59
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:57:13-59
 	android:theme
-		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:57:13-56
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:55:19-50
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:56:13-44
+activity#com.codepath.apps.tweeter.ProfileActivity
+ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:62:13-59
+	android:theme
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from /Users/asmurthy/AndroidStudioProjects/tweeter/app/src/main/AndroidManifest.xml:61:13-44

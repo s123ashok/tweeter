@@ -2,95 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/libs/codepath-utils.jar"
+        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/codepath-utils-7d995cbf803d96dc5888b4d8c0198c8f5aacf4aa.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-51a2b932ab937b4c916bad057d88730465c7f833.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/classes-0f21760d5c06c071fb84cfcb65c4be7636c6cc44.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/libs/codepath-oauth-0.4.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-ee9513e8267b7090443f0b14e6e8db956495715b.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-adba746fc7603f1656d8f61c4c6816d824a6ae51.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/classes-f15791ad9af4910c574bc3a290827a749c11e87e.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/classes-484333c813e06634f1a679423785872d3dcafee6.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/classes-a6978e051d76f29af1962e45ea7d355d4e441322.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/libs/scribe-codepath-0.0.3.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-d03157a90cd05e43ae2f8292f0ab0193370ab885.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-5bbd8e2215a4df3aba68d8b08b1fc54f693cccf8.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-a7ce40afaec878d3b39f12a2a46ddfae1375e765.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-24d5aa5e00bdfefe97662e668cfed3dbe5f46eee.jar" />
-    </item>
-    <item
-        jar="/Users/asmurthy/AndroidStudioProjects/tweeter/app/libs/org.apache.http.legacy.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
-        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-86418dbdca8a1af0e566cc97d329061ce194ceb9.jar" />
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/asmurthy/AndroidStudioProjects/tweeter/app/build/intermediates/pre-dexed/debug/classes-f383d7f8bcb4435faca4cf7a91015ccb0564eec5.jar" />
     </item>
 
 </items>
